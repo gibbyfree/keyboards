@@ -4,6 +4,9 @@
 * **Plate:** Brass
 
 ## Changelog
+**v4:**
+putting brackets in a place that makes sense
+
 **v3:**
 rearranging modifier keys, doing away with function layer for now
 
