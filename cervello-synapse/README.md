@@ -5,5 +5,13 @@
 * **Plate:** POM
 
 ## Changelog
+**v3:**
+- swap split space layers
+- swap bs and tab
+- replace second bs with semicolon
+
+**v2:**
+arrange modifiers in a way that actually makes sense
+
 **v1:**
 init keymap
