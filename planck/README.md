@@ -4,6 +4,10 @@
 * **Plate:** Brass with foam
 
 ## Changelog
+
+**3u v2**:
+yolo: colemak-dh
+
 **3u v1**:
 added files for 3u layout
 
