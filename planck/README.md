@@ -5,6 +5,9 @@
 
 ## Changelog
 
+**v5:**:
+colemak-dh for 1u planck as well
+
 **3u v2**:
 yolo: colemak-dh
 
