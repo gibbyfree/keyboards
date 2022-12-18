@@ -5,3 +5,4 @@
 | [Fourier](https://github.com/gibbyfree/keyboards/tree/master/fourier) | 49 - 4r,13u | QWERTY | Stagger | Yes
 | [Cervello](https://github.com/gibbyfree/keyboards/tree/master/cervello-synapse) | 40 - 4r,12u | QWERTY | Stagger | Yes
 | [Lesovoz](https://github.com/gibbyfree/keyboards/tree/master/lesovoz) | 40 - 4x10 | Colemak-DH | Ortho | No
+| [Qaz](https://github.com/gibbyfree/keyboards/tree/master/qaz) | 37 - 4r,10u | QWERTY | Stagger | No
