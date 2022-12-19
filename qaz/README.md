@@ -4,5 +4,8 @@
 * **Plate:** IMA
 
 ## Changelog
+**v2:**
+add right shift to bottom row on layer 1
+
 **v1:**
 first try with bottom row symbols...
